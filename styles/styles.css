@@ -78,6 +78,7 @@ nav {
    padding: 10px;
    border: 2px solid black;
    justify-content: center;
+   width: 100%;
    justify-items: center;
 }
 .section-descripsion2 {
